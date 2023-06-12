@@ -1,0 +1,11 @@
+.hero-patterns {
+  background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.45) 0%,
+      rgba(0, 0, 0, 0.6) 100%
+    ),
+    url("../../assets/Hero.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

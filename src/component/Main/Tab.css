@@ -1,0 +1,16 @@
+.active-tabs {
+  border-bottom: 2px solid black;
+  color: black;
+  transition: 0.1s ease-in;
+}
+
+.not-active {
+  color: #8a8a8a;
+}
+
+.active-content {
+  display: block;
+}
+.not-active-content {
+  display: none;
+}
